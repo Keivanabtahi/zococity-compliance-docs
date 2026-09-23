@@ -12,3 +12,11 @@ descargar el fichero directamente (URL estática), sin pasar por ningún control
 
 - `gpsr/safety-notice-es.pdf` — advertencias de seguridad (ES)
 - `gpsr/safety-notice-fr.pdf` — advertencias de seguridad (FR)
+- `gpsr/safety-notice-it.pdf` — advertencias de seguridad (IT)
+- `gpsr/safety-notice-de.pdf` — advertencias de seguridad (DE)
+- `gpsr/safety-notice-nl.pdf` — advertencias de seguridad (NL)
+- `gpsr/safety-notice-sv.pdf` — advertencias de seguridad (SE)
+- `gpsr/safety-notice-pl.pdf` — advertencias de seguridad (PL)
+
+Para Bélgica (BE) se reutiliza `safety-notice-fr.pdf` con `content_language: fr_FR` (mercado
+predominantemente francófono en Seller Central para esta cuenta).
